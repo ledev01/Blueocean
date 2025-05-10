@@ -1,0 +1,121 @@
+import "../../../index.css";
+
+function Hantrungcap() {
+    return (
+        <div className="pb-[100px]">
+            <div className="relative">
+                <img
+                    src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-e-commerce-book-knowledge-teacher-education-banner-background-image_186718.jpg"
+                    className="w-full h-72 object-cover"
+                />
+
+                {/* Breadcrumb đè lên ảnh, căn giữa */}
+                <div className="absolute inset-0 flex justify-center items-center">
+                    <div className="flex text-white font-semibold text-sm drop-shadow-md">
+                        <a href="/" className="breadcrumb-arrow-left bg-gray-400 px-4 py-2">
+                            Trang chủ
+                        </a>
+                        <div className="breadcrumb-arrow-center bg-violet-500 px-8 py-2">
+                            Khóa học tiếng hàn
+                        </div>
+                        <div className="breadcrumb-arrow-right bg-orange-500 px-8 py-2">
+                            Khóa học tiếng hàn trung cấp
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            
+                    <div className="max-w-[1000px] mx-auto px-4 mt-8">
+            <div className="grid grid-cols-2 gap-x-6">
+                <div className="flex flex-col gap-y-4">
+                                                                                                                                                                                                      <p className="text-justify font-semibold text-blue-500 italic">
+🇰🇷 KHÓA TIẾNG HÀN TRUNG CẤP – NÂNG TẦM NGÔN NGỮ, SẴN SÀNG CHINH PHỤC TOPIK 3 & 4 🇰🇷
+</p>
+                    <p className="text-justify">
+Sau khi hoàn thành khóa sơ cấp, nhiều học viên mong muốn nâng cao khả năng giao tiếp, đọc hiểu và đạt các chứng chỉ TOPIK cao hơn để phục vụ học tập, làm việc hoặc chuẩn bị du học Hàn Quốc. Hiểu được nhu cầu đó, Trung tâm Ngoại ngữ Quốc tế BlueOcean triển khai chương trình Tiếng Hàn Trung Cấp, gồm trung cấp 1 và trung cấp 2, giúp học viên tiến xa hơn trong hành trình học tiếng Hàn.
+
+✨ 1. KHÓA TRUNG CẤP 1
+Thời lượng: từ 2 đến 3,5 tháng
+
+Học phí: 3.690.000 VNĐ
+
+Nội dung học:
+
+Mở rộng từ vựng – ngữ pháp trung cấp sử dụng trong các chủ đề phức tạp hơn (sức khỏe, môi trường, văn hóa, công việc…)
+
+Luyện nghe và phản xạ trong các tình huống thực tế nâng cao
+
+Rèn luyện kỹ năng viết đoạn văn dài, viết mail, nhật ký,…
+
+Đọc hiểu các bài viết dài hơn với cấu trúc đa dạng
+
+Bắt đầu hướng đến TOPIK 3
+
+✨ 2. KHÓA TRUNG CẤP 2
+Thời lượng: từ 2 đến 3,5 tháng
+
+Học phí: 4.190.000 VNĐ
+
+Nội dung học:
+
+Củng cố và nâng cao hệ thống ngữ pháp phức tạp hơn (các biểu hiện trừu tượng, trang trọng, viết luận)
+
+Tập trung vào kỹ năng viết bài nghị luận, báo cáo, trình bày ý kiến cá nhân rõ ràng
+
+Đọc hiểu các đoạn văn học thuật, báo chí, văn bản công việc
+
+Rèn luyện nghe hiểu các đoạn hội thoại dài, bài nói tự nhiên giữa người Hàn
+
+Chuẩn đầu ra tương đương TOPIK 4
+
+🎯 KẾT QUẢ SAU KHI HOÀN THÀNH KHÓA TRUNG CẤP
+Tự tin giao tiếp lưu loát bằng tiếng Hàn trong nhiều hoàn cảnh
+
+Nắm vững từ vựng và cấu trúc phục vụ cho công việc, học tập và phỏng vấn
+
+Đủ khả năng đăng ký thi và đạt chứng chỉ TOPIK cấp 3 hoặc 4
+
+Làm nền tảng để học tiếp lên cao cấp hoặc ôn luyện TOPIK 5, 6
+
+🕰️ LỊCH HỌC LINH HOẠT – PHÙ HỢP CHO NGƯỜI ĐI LÀM VÀ SINH VIÊN
+Các lớp học trung cấp tổ chức liên tục theo ca 17h30–19h30 hoặc 19h30–21h30
+
+Học 3 buổi/tuần, lựa chọn linh hoạt theo các ngày Thứ 2 – 4 – 6 hoặc Thứ 3 – 5 – 7
+
+Trung tâm hỗ trợ tư vấn lộ trình cá nhân hóa, phù hợp với thời gian và mục tiêu của từng học viên
+
+👩‍🏫 LÝ DO NÊN CHỌN BLUEOCEAN CHO LỘ TRÌNH TRUNG CẤP?
+Đội ngũ giáo viên trình độ cao, tận tâm và giàu kinh nghiệm
+
+Giáo trình chuẩn, cập nhật theo yêu cầu TOPIK mới nhất
+
+Lớp học sĩ số nhỏ, hỗ trợ từng học viên sát sao
+
+Phương pháp giảng dạy kết hợp thực hành giao tiếp, luyện đề, chữa bài viết cá nhân hóa
+
+Hỗ trợ định hướng thi TOPIK cao cấp, du học – việc làm tại Hàn Quốc
+
+📞 HỌC TIẾNG HÀN CHUYÊN SÂU – MỞ CÁNH CỬA CƠ HỘI TOÀN CẦU CÙNG BLUEOCEAN!
+Trung tâm Ngoại ngữ Quốc tế BlueOcean
+📍 Địa chỉ: 380 Trần Hưng Đạo, phường An Lưu, thị xã Kinh Môn, tỉnh Hải Dương
+📞 Hotline: 0822.663.686
+🌐 Website: blueocean.com
+
+
+
+
+
+                        </p>
+
+                        
+                </div>
+                <img src="http://localhost:3000/center.jpg" className="w-full h-auto" />
+            </div>
+            </div>
+        </div>
+    );
+}
+
+export default Hantrungcap;
