@@ -99,7 +99,7 @@ Trung tâm Ngoại ngữ Quốc tế BlueOcean
 
                         
                 </div>
-                <img src="http://localhost:3000/center.jpg" className="w-full h-auto" />
+                <img src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/495456977_2134549913657949_7291852360507423709_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=nIkrDpcxuoAQ7kNvwGtiWoy&_nc_oc=AdlIwb6lhkcn6ORts1E3n_rRvpoTZYGHci2_KXtG3-3E2K3LHoFP2qjMpF-frbi8Owg&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=I9DSG-fQ5a907MMrqVk19w&oh=00_AfLvciIWRuGXqEVb3tRZ1MxLA7h1kBVBHeCbsamD2D7vWQ&oe=6824E779" className="w-full h-auto" />
             </div>
             </div>
         </div>
