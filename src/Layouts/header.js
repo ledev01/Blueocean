@@ -115,13 +115,7 @@ function Header() {
                       <a href="/giaotiep" className="block px-4 py-2 group-hover/sub:bg-blue-400 group-hover/sub:text-white">
                         Khóa Giao Tiếp
                       </a>
-                      {/* <div className="absolute top-0 left-full w-40 bg-white border rounded-md shadow-lg hidden group-hover/sub:block z-20">
-                        <ul>
-                          <li><a href="/giaotiep1" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 1</a></li>
-                          <li><a href="/giaotiep2" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 2</a></li>
-                          <li><a href="/giaotiep3" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 3</a></li>
-                        </ul>
-                      </div> */}
+                   
                     </li>
 
                     {/* Khóa Tiếng Nhật */}
@@ -153,27 +147,14 @@ function Header() {
                       </div>
                     </li>
 
-                    {/* <li className="relative group/sub">
-                      <a href='/anh'  className="block px-4 py-2 group-hover/sub:bg-blue-400 group-hover/sub:text-white">
-                        Khóa Tiếng Anh
-                      </a>
-                      <div className="absolute top-0 left-full w-40 bg-white border rounded-md shadow-lg hidden group-hover/sub:block z-20">
-                        
-                      </div>
-                    </li> */}
+                    
 
                         {/* Khóa Giao Tiếp */}
                     <li className="relative group/sub">
                       <a href="/anh" className="block px-4 py-2 group-hover/sub:bg-blue-400 group-hover/sub:text-white">
                         Khóa Tiếng Anh
                       </a>
-                      {/* <div className="absolute top-0 left-full w-40 bg-white border rounded-md shadow-lg hidden group-hover/sub:block z-20">
-                        <ul>
-                          <li><a href="/giaotiep1" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 1</a></li>
-                          <li><a href="/giaotiep2" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 2</a></li>
-                          <li><a href="/giaotiep3" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Giao Tiếp 3</a></li>
-                        </ul>
-                      </div> */}
+                    
                     </li>
 
                   </ul>
@@ -183,41 +164,64 @@ function Header() {
 
 
 
-              {/* <div className="relative group px-3 py-2 hover:bg-blue-500 rounded-lg flex flex-row items-center gap-x-1 cursor-pointer">
-              <a href="#" className="uppercase text-[15px] text-black group-hover:text-white flex items-center gap-x-1">
-                Lộ Trình Học
-                <img src="https://cdn-icons-png.flaticon.com/128/2985/2985150.png" className="w-4 h-4" />
-              </a>
+                 <div className="relative group px-3 py-2 hover:bg-blue-500 rounded-lg flex flex-row items-center gap-x-1 cursor-pointer">
+                <a href="#" className="uppercase text-[15px] text-black group-hover:text-white flex items-center gap-x-1">
+                  Định hướng
+                  <img src="https://cdn-icons-png.flaticon.com/128/2985/2985150.png" className="w-4 h-4" />
+                </a>
 
-              <div className="absolute top-full left-0 w-40 bg-white border rounded-md shadow-lg hidden group-hover:block z-10">
-                <ul className="text-sm text-gray-700">
-                  <li>
-                    <a href="/socap" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">
-                      Sơ Cấp
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/trungcap" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">
-                      Trung Cấp
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/caocap" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">
-                      Cao Cấp
-                    </a>
-                  </li>
-                   <li>
-                    <a href="/giaotiep" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">
-                      Giao Tiếp
-                    </a>
-                  </li>
-                </ul>
+                {/* Dropdown menu cấp 1 */}
+                <div className="absolute top-full left-0 w-40 bg-white border rounded-md shadow-lg hidden group-hover:block z-10">
+                  <ul className="text-sm text-gray-700">
+
+                    {/* Khóa HSK */}
+                    <li className="relative group/sub">
+                      <a  className="block px-4 py-2 group-hover/sub:bg-blue-400 group-hover/sub:text-white">
+                        Du Học
+                      </a>
+                      <div className="absolute top-0 left-full w-40 bg-white border rounded-md shadow-lg hidden group-hover/sub:block z-20">
+                        <ul>
+                          <li><a href="/hsk1" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Trung Quốc</a></li>
+                          <li><a href="/hsk2" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Đài Loan</a></li>
+                          <li><a href="/hsk3" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Nhật Bản</a></li>
+                          <li><a href="/hsk4" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Hàn Quốc</a></li>
+                          <li><a href="/hsk5" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Úc</a></li>
+                          <li><a href="/hsk6" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Đức</a></li>
+                        </ul>
+                      </div>
+                    </li>
+
+
+                    {/* Khóa Tiếng Nhật */}
+                    <li className="relative group/sub">
+                      <a  className="block px-4 py-2 group-hover/sub:bg-blue-400 group-hover/sub:text-white">
+                        Xuất Khẩu Lao Động
+                      </a>
+                      <div className="absolute top-0 left-full w-40 bg-white border rounded-md shadow-lg hidden group-hover/sub:block z-20">
+                        <ul>
+                          <li><a href="/hsk1" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Trung Quốc</a></li>
+                          <li><a href="/hsk2" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Đài Loan</a></li>
+                          <li><a href="/hsk3" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Nhật Bản</a></li>
+                          <li><a href="/hsk4" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Hàn Quốc</a></li>
+                          <li><a href="/hsk5" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Úc</a></li>
+                          <li><a href="/hsk6" className="block px-4 py-2 hover:bg-blue-400 hover:text-white">Đức</a></li>
+                        </ul>
+                      </div>
+                    </li>
+
+                  </ul>
+                </div>
               </div>
-            </div>
+
+
+
+
+
+
        
-                 <a href='/blog' className='block px-3 py-2 hover:bg-blue-500 rounded-lg uppercase text-[15px] text-black hover:text-white cursor-pointer'>
+                 {/* <a href='/blog' className='block px-3 py-2 hover:bg-blue-500 rounded-lg uppercase text-[15px] text-black hover:text-white cursor-pointer'>
               Blog
-            </a> */}
+            </a>  */}
                  <a href='/tintuc' className='block px-3 py-2 hover:bg-blue-500 rounded-lg uppercase text-[15px] text-black hover:text-white cursor-pointer'>
               Tin Tức
             </a>
