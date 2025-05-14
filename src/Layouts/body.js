@@ -225,7 +225,7 @@ function Body() {
                                 img: "https://sukienhaiphong.vn/upload/images/tai-sao-ky-nang-giao-tiep-lai-quan-trong.jpg"
                             },
                             {
-                                href: "/N5",
+                                href: "/nhat5",
                                 title: "Khóa học tiếng nhật",
                                 img: "https://lophoctiengnhat.edu.vn/images/2018/07/30/hoc-tieng-nhat.jpg"
                             },

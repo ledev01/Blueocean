@@ -168,7 +168,7 @@ function Giaotiep() {
                             <li>Giao tiếp trong công việc: gọi điện thoại, gửi email, hội họp, trình bày ý tưởng</li>
                             <li>Giao tiếp học thuật: thuyết trình, tranh luận, đặt câu hỏi, phỏng vấn du học</li>
                             <li>Giao tiếp xã giao & văn hóa ứng xử quốc tế</li>
-                            <li>Tình huống giả định & đóng vai thực tế theo từng ngôn ngữ (Anh – Trung – Nhật – Hàn)</li>
+                            <li>Giao tiếp công xưởng - xuất khẩu lao động</li>
                             <li>Rèn luyện phát âm – ngữ điệu – tốc độ nói tự nhiên như người bản xứ</li>
                             <li>Các chủ đề chuyên biệt: du lịch, du học, xin việc, hội nhập đa văn hóa</li>
                         </ul>
@@ -198,7 +198,7 @@ function Giaotiep() {
                             📌 THÔNG TIN KHÓA HỌC
                         </p>
                         <ul className="list-disc pl-6">
-                            <li>Thời lượng: 24–36 buổi tùy cấp độ</li>
+                            <li>Thời lượng: không quy định</li>
                             <li>Hình thức học: Tại trung tâm hoặc online qua Zoom</li>
                             <li>Ngôn ngữ: Tiếng Anh, tiếng Trung, tiếng Nhật, tiếng Hàn</li>
                             <li>Lịch học: Linh hoạt sáng – chiều – tối, các ngày trong tuần hoặc cuối tuần</li>
