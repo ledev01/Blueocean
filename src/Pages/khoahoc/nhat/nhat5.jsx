@@ -203,7 +203,7 @@ function Nhat5() {
                             📌 <span className="font-semibold">THÔNG TIN KHÓA HỌC</span>
                         </p>
                         <ul className="list-disc pl-6">
-                            <li>Thời lượng: 36–48 buổi</li>
+                            {/* <li>Thời lượng: 36–48 buổi</li> */}
                             <li>Hình thức học: Tại trung tâm hoặc online qua Zoom</li>
                             <li>Lịch học: Sáng – chiều – tối hoặc cuối tuần, linh hoạt lựa chọn</li>
                             <li>Học phí: Vui lòng liên hệ để được tư vấn chương trình ưu đãi</li>

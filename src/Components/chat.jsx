@@ -1,5 +1,5 @@
 function Chat() {
-    return ( <div className="fixed bottom-10 right-10 cursor-pointer">
+    return ( <div className="fixed bottom-10 right-10 cursor-pointer z-30">
           <a href="https://www.facebook.com/profile.php?id=61572324301578">
                     <img
                 className="w-14 h-auto animate-shake-spin"

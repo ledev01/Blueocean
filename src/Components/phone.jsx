@@ -2,7 +2,7 @@ function Phone() {
     return ( 
    
 
-            <div className="fixed bottom-10 left-10 cursor-pointer flex flex-row items-center">
+            <div className="fixed bottom-10 left-10 cursor-pointer flex flex-row items-center z-30">
             <img
                 className="w-14 h-auto z-20 -mr-3 animate-shake-spin"
                 src="https://cdn-icons-png.flaticon.com/128/724/724664.png"

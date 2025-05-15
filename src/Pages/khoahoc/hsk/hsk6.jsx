@@ -166,7 +166,7 @@ function Hsk6() {
                             - Người học tiếng Trung chuyên sâu vì lý do học thuật.
                             <br /><br />
                             📌 <strong>THÔNG TIN KHÓA HỌC</strong><br />
-                            - Thời lượng: 70–80 buổi<br />
+                            {/* - Thời lượng: 70–80 buổi<br /> */}
                             - Lịch học: Linh hoạt sáng, tối, cuối tuần<br />
                             - Hình thức: Trực tiếp hoặc online qua Zoom<br />
                             - Học phí: Liên hệ trung tâm để nhận ưu đãi

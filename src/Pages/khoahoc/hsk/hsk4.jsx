@@ -183,7 +183,7 @@ function Hsk4() {
                             Người học tiếng Trung chuyên sâu để sử dụng trong công việc và nghiên cứu.
                             <br /><br />
                             📌 <strong>THÔNG TIN KHÓA HỌC</strong><br />
-                            Thời lượng: 50–60 buổi<br />
+                            {/* Thời lượng: 50–60 buổi<br /> */}
                             Lịch học: Linh hoạt các khung giờ trong tuần hoặc cuối tuần<br />
                             Hình thức: Trực tiếp tại trung tâm hoặc online qua Zoom<br />
                             Học phí: Liên hệ trung tâm để được tư vấn chính xác và nhận ưu đãi học phí

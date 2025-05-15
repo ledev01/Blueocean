@@ -184,7 +184,7 @@ function Hsk2() {
                             - Người muốn nâng cao giao tiếp tiếng Trung.
                             <br /><br />
                             📌 <strong>THÔNG TIN KHÓA HỌC</strong><br />
-                            - Thời lượng: ~40–45 buổi học<br />
+                            {/* - Thời lượng: ~40–45 buổi học<br /> */}
                             - Lịch học: Sáng / tối / cuối tuần<br />
                             - Hình thức: Trực tiếp hoặc học online qua Zoom<br />
                             - Học phí: Liên hệ trung tâm để được tư vấn ưu đãi

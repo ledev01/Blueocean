@@ -201,7 +201,7 @@ function Hsk5() {
             <div className="space-y-2 text-justify">
               <p>📌 <strong>THÔNG TIN KHÓA HỌC</strong></p>
               <ul className="list-disc pl-5 space-y-1">
-                <li>Thời lượng: 60–70 buổi</li>
+                {/* <li>Thời lượng: 60–70 buổi</li> */}
                 <li>Lịch học: Linh hoạt (sáng, tối, cuối tuần)</li>
                 <li>Hình thức: Tại trung tâm hoặc online qua Zoom</li>
                 <li>Học phí: Liên hệ để nhận tư vấn và ưu đãi</li>
