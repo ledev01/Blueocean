@@ -28,6 +28,22 @@ import Chat from "./Components/chat";
 import Phone from "./Components/phone";
 import Home from './Pages/home/home';
 
+import Dhnhatban from "./Pages/dinhuong/duhoc/dhnhatban";
+import Dhdailoan from "./Pages/dinhuong/duhoc/dhdailoan";
+import Dhhanquoc from "./Pages/dinhuong/duhoc/dhhanquoc";
+import Dhtrungquoc from "./Pages/dinhuong/duhoc/dhtrungquoc";
+import Dhuc from "./Pages/dinhuong/duhoc/dhuc";
+import Dhduc from "./Pages/dinhuong/duhoc/dhduc";
+
+import Xknhatban from "./Pages/dinhuong/xuatkhau/xknhatban";
+import Xkdailoan from "./Pages/dinhuong/xuatkhau/xkdailoan";
+import Xkhanquoc from "./Pages/dinhuong/xuatkhau/xkhanquoc";
+import Xktrungquoc from "./Pages/dinhuong/xuatkhau/xktrungquoc";
+import Xkuc from "./Pages/dinhuong/xuatkhau/xkuc";
+import Xkduc from "./Pages/dinhuong/xuatkhau/xkduc";
+
+
+
 // 👉 Tạo component bọc để dùng hook useLocation nếu cần xử lý điều kiện khác
 function AppWrapper() {
   const location = useLocation();
@@ -64,6 +80,19 @@ function AppWrapper() {
         <Route path="/giaotiep" element={<Giaotiep />} />
         <Route path="/socap" element={<Socap />} />
         <Route path="/trungcap" element={<Trungcap />} />
+
+        <Route path="/dhnhatban" element={<Dhnhatban />} />
+        <Route path="/dhhanquoc" element={<Dhhanquoc />} />
+        <Route path="/dhtrungquoc" element={<Dhtrungquoc />} />
+        <Route path="/dhdailoan" element={<Dhdailoan />} />
+        <Route path="/dhuc" element={<Dhuc />} />
+        <Route path="/dhduc" element={<Dhduc />} />
+        <Route path="/xknhatban" element={<Xknhatban />} />
+        <Route path="/xkhanquoc" element={<Xkhanquoc />} />
+        <Route path="/xkdailoan" element={<Xkdailoan />} />
+        <Route path="/xktrungquoc" element={<Xktrungquoc />} />
+        <Route path="/xkuc" element={<Xkuc />} />
+        <Route path="/xkduc" element={<Xkduc />} />
       </Routes>
 
       <Footer />

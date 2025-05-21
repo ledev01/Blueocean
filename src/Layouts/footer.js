@@ -52,7 +52,7 @@
 
 function Footer() {
   return (
-    <div className="bg-lime-300">
+    <div className="bg-blue-300">
       <div className="max-w-[1140px] mx-auto px-4 h-full flex flex-col items-center py-12 gap-y-8 min-h-[500px]">
         
         {/* Logo */}

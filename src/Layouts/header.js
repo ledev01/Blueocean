@@ -203,7 +203,7 @@ function Header() {
       </div>
 
       {/* Mobile Menu */}
-      {menuOpen && (
+      {/* {menuOpen && (
         <div className="md:hidden absolute top-[60px] left-0 w-full bg-white border-t z-10">
           <ul className="flex flex-col text-sm text-black">
             {menuItems.map(item => (
@@ -270,7 +270,87 @@ function Header() {
             ))}
           </ul>
         </div>
-      )}
+      )} */}
+
+      {menuOpen && (
+  <div className="md:hidden absolute top-[60px] left-0 w-full bg-white border-t z-10">
+    <ul className="flex flex-col text-sm text-black">
+      {menuItems.map(item => (
+        <li key={item.title}>
+          {item.subItems ? (
+            <div>
+              <button
+                onClick={() => toggleDropdown(item.dropdownKey)}
+                className="w-full text-left px-4 py-2 border-b hover:bg-blue-100 flex justify-between"
+              >
+                {item.title}
+                <span>{openDropdown === item.dropdownKey ? '-' : '+'}</span>
+              </button>
+              {openDropdown === item.dropdownKey && (
+                <ul className="pl-4">
+                  {item.subItems.map(sub => (
+                    <li key={sub.title}>
+                      {sub.path ? (
+                        <button
+                          onClick={() => {
+                            window.scrollTo(0, 0);
+                            navigateTo(sub.path);
+                          }}
+                          className="w-full text-left px-4 py-2 border-b hover:bg-blue-100"
+                        >
+                          {sub.title}
+                        </button>
+                      ) : (
+                        <div>
+                          <button
+                            onClick={() => toggleSubmenu(sub.submenuKey)}
+                            className="w-full text-left px-4 py-2 border-b hover:bg-blue-100 flex justify-between"
+                          >
+                            {sub.title}
+                            <span>{openSubmenu === sub.submenuKey ? '-' : '+'}</span>
+                          </button>
+                          {openSubmenu === sub.submenuKey && (
+                            <ul className="pl-4">
+                              {sub.children.map(c => (
+                                <li key={c.title}>
+                                  <button
+                                    onClick={() => {
+                                      window.scrollTo(0, 0);
+                                      navigateTo(c.path);
+                                    }}
+                                    className="w-full text-left px-4 py-2 border-b hover:bg-blue-100"
+                                  >
+                                    {c.title}
+                                  </button>
+                                </li>
+                              ))}
+                            </ul>
+                          )}
+                        </div>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          ) : (
+            <button
+              onClick={() => {
+                window.scrollTo(0, 0);
+                navigateTo(item.path);
+              }}
+              className="w-full text-left px-4 py-2 border-b hover:bg-blue-100"
+            >
+              {item.title}
+            </button>
+          )}
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
+
+
     </div>
   );
 }

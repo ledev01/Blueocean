@@ -572,7 +572,7 @@ function Body() {
     {
       href: "/giaotiep",
       title: "Khóa học giao tiếp",
-      img: "https://sukienhaiphong.vn/upload/images/tai-sao-ky-nang-giao-tiep-lai-quan-trong.jpg",
+      img: "https://ctihsk.edu.vn/wp-content/uploads/2024/08/giao-tiep-tieng-trung-co-ban.webp",
     },
     {
       href: "/nhat5",
@@ -651,9 +651,9 @@ function Body() {
               <p className="italic text-justify">
                 Tọa lạc tại trung tâm thị xã Kinh Môn, Hải Dương, Trung tâm Ngoại ngữ Quốc tế Blue Ocean tự hào là đơn vị đào tạo ngoại ngữ uy tín hàng đầu, chuyên cung cấp các khóa học tiếng Trung (HSK, giao tiếp), tiếng Nhật, tiếng Hàn và tiếng Anh cho mọi lứa tuổi, từ cơ bản đến nâng cao. Với sứ mệnh “Mở cánh cửa hội nhập – Chắp cánh tương lai”, Blue Ocean không ngừng đổi mới phương pháp giảng dạy, đầu tư cơ sở vật chất hiện đại và xây dựng đội ngũ giảng viên chất lượng cao – giàu kinh nghiệm, tận tâm và chuyên môn vững vàng.
 
-//                 Tại Blue Ocean, học viên không chỉ được trang bị kiến thức ngôn ngữ vững chắc mà còn được rèn luyện kỹ năng giao tiếp, phản xạ thực tế, phát triển tư duy toàn diện, sẵn sàng chinh phục các kỳ thi quốc tế như HSK, JLPT, TOPIK, IELTS… cũng như tự tin bước ra thế giới.
+           Tại Blue Ocean, học viên không chỉ được trang bị kiến thức ngôn ngữ vững chắc mà còn được rèn luyện kỹ năng giao tiếp, phản xạ thực tế, phát triển tư duy toàn diện, sẵn sàng chinh phục các kỳ thi quốc tế như HSK, JLPT, TOPIK, IELTS… cũng như tự tin bước ra thế giới.
 
-//                 Hãy cùng Blue Ocean bứt phá giới hạn, bơi ra biển lớn, vươn mình ra toàn cầu – nơi tri thức, bản lĩnh và khát vọng hội nhập được chắp cánh mạnh mẽ nhất!
+                Hãy cùng Blue Ocean bứt phá giới hạn, bơi ra biển lớn, vươn mình ra toàn cầu – nơi tri thức, bản lĩnh và khát vọng hội nhập được chắp cánh mạnh mẽ nhất!
               </p>
             </div>
 
@@ -693,27 +693,31 @@ function Body() {
             <div className="flex flex-col gap-y-4 items-center">
               <div className="w-full aspect-[4/3] relative rounded-lg overflow-hidden z-0">
                 {/* Ảnh bên trái */}
-                <img
-                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-110 clip-left"
-                  src="https://duhochfc.vn/uploads/du-hoc-han-quoc-ve-nuoc-lam-gi.jpg"
-                  alt="Ảnh trái"
-                />
+                <a href="/dhtrungquoc">
+                  <img
+                    className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-110 clip-left"
+                    src="https://duhochfc.vn/uploads/du-hoc-han-quoc-ve-nuoc-lam-gi.jpg"
+                    alt="Ảnh trái"
+                  />
+                </a>
                 {/* Ảnh bên phải */}
                 <div className="absolute inset-0 w-full h-full clip-right-inverted overflow-hidden">
-                  <img
-                    className="w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-110"
-                    src="https://vieclamvinhphuc.gov.vn/image/images/xuat-khau-lao-dong-can-nhung-thu-tuc-gi-2.jpg"
-                    alt="Ảnh phải"
-                  />
+                 <a href="xktrungquoc">
+                    <img
+                      className="w-full h-full object-cover transition-transform duration-700 ease-in-out hover:scale-110"
+                      src="https://vieclamvinhphuc.gov.vn/image/images/xuat-khau-lao-dong-can-nhung-thu-tuc-gi-2.jpg"
+                      alt="Ảnh phải"
+                    />
+                 </a>
                 </div>
               </div>
 
               <div className="flex flex-row gap-x-2">
-                <a className="text-violet-600 font-semibold" href="/hsk6">
+                <a className="text-violet-600 font-semibold" href="/dhtrungquoc">
                   Du Học
                 </a>
-                <span>|</span>
-                <a className="text-violet-600 font-semibold" href="/hsk6">
+                <span>/</span>
+                <a className="text-violet-600 font-semibold" href="/xktrungquoc">
                   Xuất Khẩu Lao Động
                 </a>
               </div>

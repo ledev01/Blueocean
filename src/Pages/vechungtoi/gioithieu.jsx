@@ -150,11 +150,11 @@ function Gioithieu() {
               alt="BlueOcean 1"
               className="w-full rounded-lg shadow-md"
             />
-            <img
+            {/* <img
               src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/489960105_660882260027654_282252241856228584_n.jpg?stp=cp6_dst-jpegr_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UQ6wTTvmvGgQ7kNvwHQ4dOL&_nc_oc=AdnjlV4oePyyCHeAVDyFALjMlU2hcuhD8Pk7iJxYu6jQ7jmd_c0yXlJnQE51OFNlcHw&_nc_zt=23&se=-1&_nc_ht=scontent.fhph4-1.fna&_nc_gid=hqOYIVSy6p-9WkwO2scEKA&oh=00_AfIRWq4vz1KZCTY6I2I0JNRIwkl4ffBMTjPd8JL0F23Ayw&oe=6827C1D2"
               alt="BlueOcean 2"
               className="w-full rounded-lg shadow-md"
-            />
+            /> */}
           </div>
         </div>
       </div>
