@@ -453,7 +453,11 @@ function Body() {
                 TRUNG TÂM NGOẠI NGỮ QUỐC TẾ BLUE OCEAN – MỞ CÁNH CỬA HỘI NHẬP TOÀN CẦU
               </p>
               <p className="italic text-justify">
-                Tọa lạc tại trung tâm thị xã Kinh Môn, Hải Dương, Trung tâm Ngoại ngữ Quốc tế Blue Ocean tự hào là đơn vị đào tạo ngoại ngữ uy tín hàng đầu, chuyên cung cấp các khóa học tiếng Trung (HSK, giao tiếp), tiếng Nhật, tiếng Hàn và tiếng Anh cho mọi lứa tuổi, từ cơ bản đến nâng cao...
+                Tọa lạc tại trung tâm thị xã Kinh Môn, Hải Dương, Trung tâm Ngoại ngữ Quốc tế Blue Ocean tự hào là đơn vị đào tạo ngoại ngữ uy tín hàng đầu, chuyên cung cấp các khóa học tiếng Trung (HSK, giao tiếp), tiếng Nhật, tiếng Hàn và tiếng Anh cho mọi lứa tuổi, từ cơ bản đến nâng cao. Với sứ mệnh “Mở cánh cửa hội nhập – Chắp cánh tương lai”, Blue Ocean không ngừng đổi mới phương pháp giảng dạy, đầu tư cơ sở vật chất hiện đại và xây dựng đội ngũ giảng viên chất lượng cao – giàu kinh nghiệm, tận tâm và chuyên môn vững vàng.
+
+                Tại Blue Ocean, học viên không chỉ được trang bị kiến thức ngôn ngữ vững chắc mà còn được rèn luyện kỹ năng giao tiếp, phản xạ thực tế, phát triển tư duy toàn diện, sẵn sàng chinh phục các kỳ thi quốc tế như HSK, JLPT, TOPIK, IELTS… cũng như tự tin bước ra thế giới.
+
+                Hãy cùng Blue Ocean bứt phá giới hạn, bơi ra biển lớn, vươn mình ra toàn cầu – nơi tri thức, bản lĩnh và khát vọng hội nhập được chắp cánh mạnh mẽ nhất!
               </p>
             </div>
 

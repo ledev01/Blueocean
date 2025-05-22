@@ -197,12 +197,12 @@ function Hsk4() {
                     </div>
                    <div className="flex flex-col gap-y-8">
             <img
-              src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/487544395_648245674624646_4664860035116462655_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fpVWYYsy7LcQ7kNvwGRMIs4&_nc_oc=AdkPTOplT2wDPkOEBRG8kCUWy1MtOobKuKtoA2C80rxdLAPQcaaV0OF1mF8D6RJOmtU&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=5IAjjTfqGii1LFQD-Gnv-w&oh=00_AfIYVwrkEoAI_mpkV4Y1hObOlFHk0s3-gYUYMRABYMRWEg&oe=6827CAA0"
+              src="/tt5.png"
               alt="HSK 1 class 1"
               className="w-full rounded-lg shadow-md"
             />
             {/* <img
-              src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/487544395_648245674624646_4664860035116462655_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fpVWYYsy7LcQ7kNvwGRMIs4&_nc_oc=AdkPTOplT2wDPkOEBRG8kCUWy1MtOobKuKtoA2C80rxdLAPQcaaV0OF1mF8D6RJOmtU&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=5IAjjTfqGii1LFQD-Gnv-w&oh=00_AfIYVwrkEoAI_mpkV4Y1hObOlFHk0s3-gYUYMRABYMRWEg&oe=6827CAA0"
+              src="/tt5.png"
               alt="HSK 1 class 2"
               className="w-full rounded-lg shadow-md"
             /> */}

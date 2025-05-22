@@ -38,7 +38,7 @@
                         
 //                 </div>
 //               <div className="flex flex-col gap-y-10">
-//                     <img src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/487544395_648245674624646_4664860035116462655_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fpVWYYsy7LcQ7kNvwGRMIs4&_nc_oc=AdkPTOplT2wDPkOEBRG8kCUWy1MtOobKuKtoA2C80rxdLAPQcaaV0OF1mF8D6RJOmtU&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=5IAjjTfqGii1LFQD-Gnv-w&oh=00_AfIYVwrkEoAI_mpkV4Y1hObOlFHk0s3-gYUYMRABYMRWEg&oe=6827CAA0" className="w-full h-auto" />
+//                     <img src="dhdl.png" className="w-full h-auto" />
 //                     <img src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/489960105_660882260027654_282252241856228584_n.jpg?stp=cp6_dst-jpegr_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UQ6wTTvmvGgQ7kNvwHQ4dOL&_nc_oc=AdnjlV4oePyyCHeAVDyFALjMlU2hcuhD8Pk7iJxYu6jQ7jmd_c0yXlJnQE51OFNlcHw&_nc_zt=23&se=-1&_nc_ht=scontent.fhph4-1.fna&_nc_gid=hqOYIVSy6p-9WkwO2scEKA&oh=00_AfIRWq4vz1KZCTY6I2I0JNRIwkl4ffBMTjPd8JL0F23Ayw&oe=6827C1D2" className="w-full h-auto" />
 //                 </div>
 //               </div>
@@ -115,7 +115,7 @@
 //           {/* Cột phải - Hình ảnh */}
 //           <div className="flex flex-col gap-y-6">
 //             <img
-//               src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/487544395_648245674624646_4664860035116462655_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fpVWYYsy7LcQ7kNvwGRMIs4&_nc_oc=AdkPTOplT2wDPkOEBRG8kCUWy1MtOobKuKtoA2C80rxdLAPQcaaV0OF1mF8D6RJOmtU&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=5IAjjTfqGii1LFQD-Gnv-w&oh=00_AfIYVwrkEoAI_mpkV4Y1hObOlFHk0s3-gYUYMRABYMRWEg&oe=6827CAA0"
+//               src="dhdl.png"
 //               alt="Tin tức 1"
 //               className="w-full rounded-lg shadow-md"
 //             />
@@ -210,7 +210,7 @@ function Dhdailoan() {
           {/* Cột phải - Hình ảnh */}
           <div className="flex flex-col gap-y-6">
             <img
-              src="https://scontent.fhph4-1.fna.fbcdn.net/v/t39.30808-6/487544395_648245674624646_4664860035116462655_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fpVWYYsy7LcQ7kNvwGRMIs4&_nc_oc=AdkPTOplT2wDPkOEBRG8kCUWy1MtOobKuKtoA2C80rxdLAPQcaaV0OF1mF8D6RJOmtU&_nc_zt=23&_nc_ht=scontent.fhph4-1.fna&_nc_gid=5IAjjTfqGii1LFQD-Gnv-w&oh=00_AfIYVwrkEoAI_mpkV4Y1hObOlFHk0s3-gYUYMRABYMRWEg&oe=6827CAA0"
+              src="dhdl.png"
               alt="Đại học Đài Loan"
               className="w-full rounded-lg shadow-md"
             />
